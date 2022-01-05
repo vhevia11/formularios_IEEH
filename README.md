@@ -37,3 +37,10 @@ pip install reportlab
 ```
 pip install openpyxl
 ```
+## Ejecución del programa
+
+Para ejecutar el programa es necesario abrir la terminal, ingresar a la carpeta donde está alojado el proyecto y ejecutar la siguiente línea:
+
+```
+python F-IEEH.py
+```
