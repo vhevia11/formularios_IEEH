@@ -13,7 +13,7 @@ Es necesario contar con instalación de python 3.7 y realizar los siguientes pas
 git clone https://github.com/vhevia11/formularios_IEEH.git
 ```
 
-**Requerimientos**
+## Requerimientos
 
 **Pandas**
 ```
