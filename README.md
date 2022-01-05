@@ -44,3 +44,6 @@ Para ejecutar el programa es necesario abrir la terminal, ingresar a la carpeta 
 ```
 python F-IEEH.py
 ```
+## Outputs
+
+Los formularios en pdf ahora se habrán generado dentro del proyecto en la carpeta "F-IEEH", en donde dentro se encontrará cada uno de los formularios cargados como registro desde el excel inicial
