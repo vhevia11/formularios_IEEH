@@ -31,3 +31,9 @@ pip install pypdf2
 ```
 pip install reportlab
 ```
+
+**openpyxl**
+
+```
+pip install openpyxl
+```
