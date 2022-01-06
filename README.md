@@ -46,4 +46,4 @@ python F-IEEH.py
 ```
 ## Outputs
 
-Los formularios en pdf ahora se habrán generado dentro del proyecto en la carpeta "F-IEEH", en donde dentro se encontrará cada uno de los formularios cargados como registro desde el excel inicial
+Los formularios ahora se habrán generado dentro del proyecto en la carpeta "F-IEEH", en donde dentro se encontrará cada uno de los formularios en formato pdf en base al registro de excel obtenido del Access de egresos.
